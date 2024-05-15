@@ -37,7 +37,7 @@ h1,.navbar {
 }
 
 .navbar {
-    min-width: 100vh;
+    min-width: 220px;
     background-color: #F55A5A;
     display: flex;
     color: #fff;
